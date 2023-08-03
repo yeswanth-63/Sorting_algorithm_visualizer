@@ -5,11 +5,13 @@
 ### Results
 <br>
 
-## BubbleSort algorithm, this is how the algorithm is expected to go about sorting an array: 
+## BubbleSort algorithm:-
+this is how the algorithm is expected to go about sorting an array: 
  <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Sorting_bubblesort_anim.gif"  />  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Bubble-sort.gif" />  \
-![Description 1](https://github.com/yeswanth-63/Sorting_algorithm_visualizer/blob/main/gifs/Bubble%20Sort%20.gif )
 
 once a random array of data values is generated it is always denoted as **red** meaning the data values are **unsorted**. When two arrays are highlighted in **purple** that meant to denote that the values are about to be **swapped** and once the **sorting is comeplete** all the bars in the graph are colored in **blue**.
+
+![Description 1](https://github.com/yeswanth-63/Sorting_algorithm_visualizer/blob/main/gifs/Bubble%20Sort%20.gif )
 
 ## Insertion Sort will sort an array in the following way:
 
