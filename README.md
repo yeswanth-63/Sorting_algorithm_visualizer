@@ -27,6 +27,8 @@ The color representation in my Insertion Sort animation is exactly the same as t
 ##  Quick SortAlgorithm
 which is expected to sort an array as the following:
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Sorting_quicksort_anim.gif"  />  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Quicksort-example.gif" />  \
+
 
 the color **orange** is used denoted the **pivot** while the color **green** is used denoted the **border**. The bars in **gray** represent the **current range of elements the algorithm is looking at** while **yellow** is the **current element being looked at in the iteration**. As usual, purple represents elements that are about to be swapped and all bars are blue as the sort is completed. 
 
@@ -34,9 +36,11 @@ the color **orange** is used denoted the **pivot** while the color **green** is 
 
 ##  Merge Sort sorts the array as the following way:
 
-![Description 2](https://github.com/yeswanth-63/Sorting_algorithm_visualizer/blob/main/gifs/Merge%20Sort.gif )
+<img src="https://codepumpkin.com/wp-content/uploads/2017/10/MergeSort_worst_case.gif"  />  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Merge-sort-example-300px.gif" />  \
 
 **orange** represents the **left half of the array** while **green** represents the **right half of the array**. The remaining colors have the same meaning as prevoiusly mentioned above.
+
+![Description 2](https://github.com/yeswanth-63/Sorting_algorithm_visualizer/blob/main/gifs/Merge%20Sort.gif )
 
 ### Hope you like the project thankyou
 <br>
