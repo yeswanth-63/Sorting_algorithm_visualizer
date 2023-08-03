@@ -34,7 +34,8 @@ the color **orange** is used denoted the **pivot** while the color **green** is 
 
 ![Description 2](https://github.com/yeswanth-63/Sorting_algorithm_visualizer/blob/main/gifs/Quick%20Sort.gif )
 
-##  Merge Sort sorts the array as the following way:
+##  Merge Sort Algorithm
+It sorts the array as the following way:
 
 <img src="https://codepumpkin.com/wp-content/uploads/2017/10/MergeSort_worst_case.gif"  />  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Merge-sort-example-300px.gif" />  \
 
