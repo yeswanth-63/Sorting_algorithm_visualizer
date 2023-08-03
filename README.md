@@ -15,10 +15,12 @@ once a random array of data values is generated it is always denoted as **red** 
 ![Description 1](https://github.com/yeswanth-63/Sorting_algorithm_visualizer/blob/main/gifs/Bubble%20Sort%20.gif )
 
 ## Insertion Sort will sort an array in the following way:
-
-![Description 2](https://github.com/yeswanth-63/Sorting_algorithm_visualizer/blob/main/gifs/Insertion%20Sort.gif )
+<img src="https://tutorialsbookmarks.com/wp-content/uploads/2019/08/Insertion-sort.gif" width="300" height="300" />  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Insertion-sort-example.gif" />  \
 
 The color representation in my Insertion Sort animation is exactly the same as the Bubble Sort.
+
+
+![Description 2](https://github.com/yeswanth-63/Sorting_algorithm_visualizer/blob/main/gifs/Insertion%20Sort.gif )
 
 ##  Quick Sort which is expected to sort an array as the following:
 
